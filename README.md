@@ -34,6 +34,7 @@ Se encuentra en el siguiente link [Historias de Usuario](https://megabarto.notio
 - [Page Object Model](https://www.selenium.dev/documentation/en/guidelines_and_recommendations/page_object_models/)
 - [Gherkin](https://cucumber.io/docs/gherkin/reference/)
 - [Cucumber](https://cucumber.io/docs/guides/10-minute-tutorial/)
+- [ChromeDriver](https://googlechromelabs.github.io/chrome-for-testing/known-good-versions-with-downloads.json)
 ---
 ## **Historia de Usuario: Compra en nopCommerce Demo Store**
 
@@ -99,4 +100,4 @@ element.clear();
 ---
 ## Autor
 
-- [Sebastian Agudelo - Co-Lider Sonar I.S.C](www.linkedin.com/in/sebastianamo)
+- [Sebastian Agudelo - Co-Lider Sonar I.S.C](https://www.linkedin.com/in/sebastianamo)
